@@ -4,3 +4,9 @@ th {
 td{
 background-color: aquamarine;
 }
+th:hover {
+    background-color: azure;
+}
+td:hover {
+    background-color: rgb(153, 27, 90);
+}
